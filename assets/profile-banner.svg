@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Teeraphat Raksawong — AI engineering and product</title>
+  <desc id="desc">An editorial banner showing connected source, evidence, and review cards.</desc>
+  <rect width="1400" height="420" rx="24" fill="#101f2b"/>
+  <path d="M875 0h525v420H875z" fill="#142c38"/>
+  <path d="M911 86h348M911 208h348M911 330h348" stroke="#38505a" stroke-width="1"/>
+  <text x="72" y="93" fill="#82c0b5" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">ENGINEERING / PRODUCT / EVIDENCE</text>
+  <text x="69" y="181" fill="#f6f3e9" font-family="Georgia,serif" font-size="68">Teeraphat</text>
+  <text x="69" y="259" fill="#f6f3e9" font-family="Georgia,serif" font-size="68">Raksawong</text>
+  <text x="73" y="324" fill="#c5d2d0" font-family="Arial,sans-serif" font-size="24">AI systems made useful, inspectable and human.</text>
+  <path d="M945 126C1010 126 1008 205 1078 205S1142 286 1212 286" fill="none" stroke="#e7a47d" stroke-width="3"/>
+  <circle cx="945" cy="126" r="7" fill="#e7a47d"/><circle cx="1078" cy="205" r="7" fill="#e7a47d"/><circle cx="1212" cy="286" r="7" fill="#e7a47d"/>
+  <rect x="915" y="69" width="182" height="53" rx="8" fill="#e7e7da"/><rect x="1043" y="145" width="193" height="53" rx="8" fill="#b7d7cc"/><rect x="1150" y="303" width="183" height="53" rx="8" fill="#ecc2a8"/>
+  <text x="937" y="102" fill="#1e343b" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">SOURCE</text>
+  <text x="1064" y="178" fill="#1e343b" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">EVIDENCE</text>
+  <text x="1172" y="336" fill="#1e343b" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">REVIEW</text>
+</svg>
