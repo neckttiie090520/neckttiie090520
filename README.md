@@ -10,6 +10,8 @@ I build systems that turn messy information into something people can inspect, u
 
 In my document intelligence work, I bring together parsing and OCR, structured extraction, source evidence, human review, and retrieval. I care about what happens when a value is wrong: can a reviewer find its source and make a correction? [Read the engineering article →](https://www.linkedin.com/pulse/building-extraction-pipeline-you-can-inspect-teeraphat-raksawong-p7mnc/)
 
+For a design exercise involving long interviews, I wrote about [claims, uncertain dates, evidence links and human corrections](https://www.linkedin.com/pulse/from-narrative-evidence-designing-information-people-can-raksawong-ncjoc/). The example is fictional and distinguishes proposed design from existing work.
+
 My interests include NLP, information extraction, retrieval, knowledge modeling, AI agents, and the interfaces people use to review their outputs. The article describes professional work; the repositories below show separate public projects.
 
 ### Selected projects
