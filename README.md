@@ -1,3 +1,5 @@
+![Teeraphat Raksawong — engineering, product and evidence](assets/profile-banner.svg)
+
 # Teeraphat Raksawong · Necktie
 
 **AI engineer & product builder in Chiang Mai, Thailand**
