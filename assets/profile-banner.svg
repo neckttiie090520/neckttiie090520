@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
-  <title id="title">Teeraphat Raksawong — AI engineering and product</title>
-  <desc id="desc">An editorial banner showing connected source, evidence, and review cards.</desc>
-  <rect width="1400" height="420" rx="24" fill="#101f2b"/>
-  <path d="M875 0h525v420H875z" fill="#142c38"/>
-  <path d="M911 86h348M911 208h348M911 330h348" stroke="#38505a" stroke-width="1"/>
-  <text x="72" y="93" fill="#82c0b5" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">ENGINEERING / PRODUCT / EVIDENCE</text>
-  <text x="69" y="181" fill="#f6f3e9" font-family="Georgia,serif" font-size="68">Teeraphat</text>
-  <text x="69" y="259" fill="#f6f3e9" font-family="Georgia,serif" font-size="68">Raksawong</text>
-  <text x="73" y="324" fill="#c5d2d0" font-family="Arial,sans-serif" font-size="24">AI systems made useful, inspectable and human.</text>
-  <path d="M945 126C1010 126 1008 205 1078 205S1142 286 1212 286" fill="none" stroke="#e7a47d" stroke-width="3"/>
-  <circle cx="945" cy="126" r="7" fill="#e7a47d"/><circle cx="1078" cy="205" r="7" fill="#e7a47d"/><circle cx="1212" cy="286" r="7" fill="#e7a47d"/>
-  <rect x="915" y="69" width="182" height="53" rx="8" fill="#e7e7da"/><rect x="1043" y="145" width="193" height="53" rx="8" fill="#b7d7cc"/><rect x="1150" y="303" width="183" height="53" rx="8" fill="#ecc2a8"/>
-  <text x="937" y="102" fill="#1e343b" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">SOURCE</text>
-  <text x="1064" y="178" fill="#1e343b" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">EVIDENCE</text>
-  <text x="1172" y="336" fill="#1e343b" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">REVIEW</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="480" viewBox="0 0 1400 480" role="img" aria-labelledby="title desc">
+<title id="title">Teeraphat Raksawong, AI engineer and product builder</title>
+<desc id="desc">A cream and dark teal composition connecting research, product and engineering through a looping path.</desc>
+<rect width="1400" height="480" rx="20" fill="#f4f1e7"/>
+<path d="M860 0h540v480H860z" fill="#153c3b"/>
+<path d="M64 58h40v6H64z" fill="#df5a39"/><text x="116" y="65" fill="#38534e" font-family="Arial,sans-serif" font-size="19" font-weight="bold" letter-spacing="2">TEERAPHAT RAKSAWONG</text>
+<text x="64" y="172" fill="#153c3b" font-family="Arial,sans-serif" font-size="70" font-weight="bold" letter-spacing="-2">Ideas into</text>
+<text x="64" y="252" fill="#153c3b" font-family="Arial,sans-serif" font-size="70" font-weight="bold" letter-spacing="-2">working systems.</text>
+<text x="68" y="313" fill="#38534e" font-family="Arial,sans-serif" font-size="24">AI engineering · product · research</text>
+<path d="M68 368h692" stroke="#c3cec2" stroke-width="2"/>
+<text x="68" y="410" fill="#38534e" font-family="Arial,sans-serif" font-size="19">NECKTIE  /  CHIANG MAI, THAILAND</text>
+<circle cx="1130" cy="240" r="156" fill="none" stroke="#9ec5b3" stroke-opacity=".25" stroke-width="2"/>
+<path d="M918 304 C973 304 981 134 1060 134 S1137 337 1211 337 S1281 166 1341 166" fill="none" stroke="#f4f1e7" stroke-width="5" stroke-linecap="round"/>
+<circle cx="1060" cy="134" r="12" fill="#e8734f"/><circle cx="1211" cy="337" r="12" fill="#b1d3a7"/><circle cx="1341" cy="166" r="12" fill="#e9c976"/>
+<rect x="912" y="81" width="112" height="35" rx="17" fill="#e8734f"/><text x="935" y="104" fill="#173936" font-family="Arial,sans-serif" font-size="15" font-weight="bold">RESEARCH</text>
+<rect x="1121" y="209" width="101" height="35" rx="17" fill="#b1d3a7"/><text x="1143" y="232" fill="#173936" font-family="Arial,sans-serif" font-size="15" font-weight="bold">PRODUCT</text>
+<rect x="1232" y="373" width="131" height="35" rx="17" fill="#e9c976"/><text x="1250" y="396" fill="#173936" font-family="Arial,sans-serif" font-size="15" font-weight="bold">ENGINEERING</text>
 </svg>
