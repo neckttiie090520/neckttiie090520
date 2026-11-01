@@ -1,4 +1,4 @@
-![Teeraphat Raksawong: ideas into working systems, connecting research, product and engineering](assets/profile-banner.svg)
+![Teeraphat Raksawong: ideas into working systems, connecting research, product and engineering](assets/profile-banner-2026.svg)
 
 # Hi, I’m Teeraphat. You can call me Necktie.
 
