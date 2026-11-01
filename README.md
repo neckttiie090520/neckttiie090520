@@ -4,7 +4,7 @@
 
 **AI engineer & product builder in Chiang Mai, Thailand**
 
-I build systems that turn messy information into something people can inspect, use, and improve. My work spans document intelligence, AI agents, data tools, and the product decisions around them.
+I turn business problems into working products, connecting user experience, system architecture, AI and the realities of operations. My work spans AI agents, document intelligence, automation and software development—from research and product discovery to implementation, testing and iteration. I bring creative thinking, reverse engineering and AI-assisted development to the problems I work on.
 
 [Portfolio](https://teeraphat-raksawong.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/teeraphat-raksawong-251514179/) · [CV](https://teeraphat-raksawong.netlify.app/files/Teeraphat-Raksawong-CV-2026.pdf)
 
